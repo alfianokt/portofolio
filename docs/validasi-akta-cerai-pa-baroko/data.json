@@ -8,14 +8,37 @@
     "mysql",
     "bootstrap"
   ],
-  "as": "Solo Developer",
+  "as": {
+    "name": "Solo Developer",
+    "tag": "solodev"
+  },
   "status": "done",
   "images": [
-    "home.png",
-    "home-full.png",
-    "home-cek-akta.png",
-    "dashboard-full.png",
-    "dashboard-import.png"
+    {
+      "url": "home.png",
+      "name": "Beranda aplikasi",
+      "description": ""
+    },
+    {
+      "url": "home-full.png",
+      "name": "Beranda aplikasi ukuran penuh",
+      "description": ""
+    },
+    {
+      "url": "home-cek-akta.png",
+      "name": "Menu cek data",
+      "description": ""
+    },
+    {
+      "url": "dashboard-full.png",
+      "name": "Dashboard admin ukuran penuh",
+      "description": ""
+    },
+    {
+      "url": "dashboard-import.png",
+      "name": "Dashboard admin import data",
+      "description": ""
+    }
   ],
   "demo": "",
   "download": ""
