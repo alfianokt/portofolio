@@ -1,0 +1,51 @@
+{
+  "name": "Web Akta Cerai PA Baroko",
+  "description": "Web Akta Cerai PA Baroko adalah aplikasi yang digunakan untuk mencari dan melihat data atau status serta pengumuman di Pengadilan Agama Baroko.",
+  "slug": "web-akta-cerai-pa-baroko",
+  "date": "November 2020",
+  "stacks": [
+    "codeigniter",
+    "mysql",
+    "alpinejs",
+    "bootstrap"
+  ],
+  "as": {
+    "name": "Solo Developer",
+    "tag": "solodev"
+  },
+  "status": "done",
+  "images": [
+    {
+      "url": "home.png",
+      "name": "Beranda aplikasi",
+      "description": ""
+    },
+    {
+      "url": "home-full.png",
+      "name": "Beranda aplikasi ukuran penuh",
+      "description": ""
+    },
+    {
+      "url": "dashboard.png",
+      "name": "Dashboard admin",
+      "description": ""
+    },
+    {
+      "url": "dashboard-expand.png",
+      "name": "Dashboard admin dengan menu terbuka",
+      "description": ""
+    },
+    {
+      "url": "dashboard-carousel.png",
+      "name": "Dashboard admin atur data carousel",
+      "description": ""
+    },
+    {
+      "url": "dashboard-carousel-expand.png",
+      "name": "Dashboard admin atur data carousel dengan menu terbuka",
+      "description": ""
+    }
+  ],
+  "demo": "",
+  "download": ""
+}
